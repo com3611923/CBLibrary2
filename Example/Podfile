@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CBLibrary2_Example' do
+  pod 'CBLibrary2', :path => '../'
+
+  target 'CBLibrary2_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
