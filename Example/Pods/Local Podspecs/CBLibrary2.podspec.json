@@ -1,0 +1,22 @@
+{
+  "name": "CBLibrary2",
+  "version": "0.1.0",
+  "summary": "A short description of CBLibrary2.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/CBLibrary2",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "com3611923": "caobincool@163.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/CBLibrary2.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CBLibrary2/Classes/**/*"
+}
